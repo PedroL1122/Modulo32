@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="main" />
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/moneta-1.1.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/txw2-4.0.2.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/jandex-3.1.2.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/junit-4.13.2.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/xapool-1.5.0.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/objenesis-3.3.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/byteman-4.0.20.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/classmate-1.5.1.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/jaxb-core-4.0.2.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/money-api-1.0.1.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/hamcrest-all-1.3.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/log4j-api-2.17.1.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/opentest4j-1.2.0.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/byte-buddy-1.14.7.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/hamcrest-core-1.3.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/log4j-core-2.17.1.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/jaxb-runtime-4.0.2.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/mockito-core-5.2.0.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/assertj-core-3.22.0.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/mockito-inline-5.2.0.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/xnio-api-3.5.1.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/antlr4-runtime-4.13.0.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/apiguardian-api-1.1.2.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/byteman-bmunit-4.0.20.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/byteman-submit-4.0.20.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/angus-activation-2.0.0.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/byteman-install-4.0.20.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/byte-buddy-agent-1.14.1.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/junit-jupiter-api-5.9.2.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/hibernate-core-6.4.0.CR1.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/jakarta.inject-api-2.0.1.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/javax.annotation-api-1.2.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/narayana-jta-7.0.0.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/jboss-logging-3.5.0.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/jakarta.resource-api-2.0.0.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/jakarta.xml.bind-api-4.0.0.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/jboss-remoting-5.0.0.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/junit-jupiter-params-5.9.2.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/wildfly-common-1.2.0.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/hibernate-testing-6.4.0.CR1.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/wildfly-elytron-1.1.0.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/istack-commons-runtime-4.1.1.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/jakarta.activation-api-2.1.0.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/jakarta.annotation-api-2.0.0.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/junit-platform-commons-1.9.2.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/jakarta.persistence-api-3.1.0.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/jakarta.transaction-api-2.0.1.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/jboss-marshalling-2.0.0.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/jboss-transaction-spi-8.0.0.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/wildfly-client-config-1.0.0.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/wildfly-naming-client-1.0.4.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/jboss-marshalling-river-2.0.0.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/hibernate-community-dialects-6.4.0.CR1.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/hibernate-commons-annotations-6.0.6.Final.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/hibernate jar/wildfly-transaction-client-jakarta-2.0.0.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
